@@ -18,7 +18,7 @@
 #include <RISC-V>
 #include <MIPS>
 
-Exploit Brower, OS, Firmware
+Exploit OS, Firmware
 Get CVE-0000-00000
 ```
 
