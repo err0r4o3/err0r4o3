@@ -1,7 +1,8 @@
 ## Who is err0r4o3? 
 
 **Name**: Error_403 == Error403 == err0r4o3   
-**Job**: A student in department of computer science and engineering at Sungkonghoe Univ from 2020 years    
+**Job**: A student in among the multiple majors in department of information and communication engineering and department of computer engineering at Sungkonghoe
+         Univ from 2020 years    
 **Location**: Seoul, Republic of Korea   
 **Site**: err0r4o3.gihub.io 
 
